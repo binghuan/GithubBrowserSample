@@ -61,7 +61,7 @@ adapters, we've decided to wait until the built in support in Room is released.)
 You can open the project in Android studio and press run.
 
 ### Demo
-![](./README/demo.gif)
+[![](./README/demo.gif)](https://youtu.be/5hR6vYgWHfI)
 
 ### GitHub Service APIs
 ![](./README/apis.png)
