@@ -19,6 +19,7 @@ Here is the file diff:
       - [UserFragment](#userfragment)
     - [Building](#building)
     - [Demo](#demo)
+    - [Download](#download)
     - [GitHub Service APIs](#github-service-apis)
     - [Testing](#testing)
       - [Device Tests](#device-tests)
@@ -62,6 +63,10 @@ You can open the project in Android studio and press run.
 
 ### Demo
 [![](./README/demo.gif)](https://youtu.be/5hR6vYgWHfI)
+
+### Download
+You can download the apk through the following QR code for installation.
+![](./README/qrcode.svg)
 
 ### GitHub Service APIs
 ![](./README/apis.png)
