@@ -17,10 +17,10 @@ Here is the file diff:
       - [UserSearchFragment](#usersearchfragment)
       - [RepoFragment](#repofragment)
       - [UserFragment](#userfragment)
+    - [GitHub Service APIs](#github-service-apis)
     - [Building](#building)
     - [Demo](#demo)
     - [Download](#download)
-    - [GitHub Service APIs](#github-service-apis)
     - [Testing](#testing)
       - [Device Tests](#device-tests)
         - [Database Tests](#database-tests)
@@ -58,6 +58,9 @@ adapters, we've decided to wait until the built in support in Room is released.)
 #### UserFragment
 - This fragment displays a user and their repositories.  
 
+### GitHub Service APIs
+![](./README/apis.png)
+
 ### Building
 You can open the project in Android studio and press run.
 
@@ -67,9 +70,6 @@ You can open the project in Android studio and press run.
 ### Download
 You can download the apk through the following QR code for installation.  
 [![](./README/qrcode.svg)](https://app.box.com/s/43fqxy5ni2wah11un67ow3u0z4pkmen3)
-
-### GitHub Service APIs
-![](./README/apis.png)
 
 ### Testing
 The project uses both instrumentation tests that run on the device
