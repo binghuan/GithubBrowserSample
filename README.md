@@ -66,7 +66,7 @@ You can open the project in Android studio and press run.
 
 ### Download
 You can download the apk through the following QR code for installation.  
-![](./README/qrcode.svg)
+[![](./README/qrcode.svg)](https://app.box.com/s/43fqxy5ni2wah11un67ow3u0z4pkmen3)
 
 ### GitHub Service APIs
 ![](./README/apis.png)
