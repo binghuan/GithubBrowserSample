@@ -1,0 +1,42 @@
+binghuan@bhwindows11:/mnt/c/Users/bingh/Github/GithubBrowserSample$ tree app
+app
+├── build.gradle
+├── proguard-rules.pro
+└── src
+    └── main
+      ├── AndroidManifest.xml
+      ├── java
+      │ └── com
+      │     └── android
+      │         └── example
+      │             └── github
+      │                 ├── GithubApp.kt
+      │                 ├── MainActivity.kt
+      │                 ├── api
+      │                 │ ├── GithubService.kt
+      │                 │ └── UserSearchResponse.kt
+      │                 ├── db
+      │                 │ ├── GithubDb.kt
+      │                 │ └── UserDao.kt
+      │                 ├── di
+      │                 │ ├── FragmentBuildersModule.kt
+      │                 │ └── ViewModelModule.kt
+      │                 ├── repository
+      │                 │ └── UserRepository.kt
+      │                 ├── ui
+      │                 │ ├── common
+      │                 │ │ └── UserListAdapter.kt
+      │                 │ └─ search
+      │                 │   ├── UserSearchFragment.kt
+      │                 │   └── UserSearchViewModel.kt
+      │                 ├── viewmodel
+      │                 │ └── GithubViewModelFactory.kt
+      │                 └── vo
+      │                     ├── User.kt
+      │                     └── UserSearchResult.kt
+      └── res
+          ├── layout
+          │ ├── user_item.xml
+          │ └── user_search_fragment.xml
+          └─── navigation
+            └── main.xml
